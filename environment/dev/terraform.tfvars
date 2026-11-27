@@ -4,7 +4,6 @@ dev = {
   #   name     = "dev-rg"
   #   location = "centralindia"
   # }
-
 }
 vnets = {
   vnet1 = {
