@@ -1,6 +1,6 @@
 module "azurerm_resource_group" {
   source = "../../modules/azurerm_resource_group"
-  rg     = var.dev
+  rg     = var.devrajat
 }
 
 module "azurerm_vnet" {
